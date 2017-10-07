@@ -9,6 +9,7 @@
   "author": "Marcello",
   "license": "ISC",
   "dependencies": {
-    "https": "^1.0.0"
+    "https": "^1.0.0",
+    "jquery-ajax": "^2.1.4"
   }
 }
